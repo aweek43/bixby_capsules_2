@@ -1,0 +1,10 @@
+train (t-dgkbwg4s02jdzsad1i8sg1y2w) {
+  utterance ("[g:youtubeURL] (눈 그리는 법)[v:youtubeName] 알려줘")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1570879431194)
+}
+train (t-dscnq2m524ufa6x4bdptl7ss3) {
+  utterance ("[g:youtubeURL_add] (손)[v:youtubeName] 어떻게 그려")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCOgIDTIJz4xJYVBmYA6v8TcVAYmBkYgZgCSjAwgAOUDAA==)
+  last-modified (1571558262912)
+}

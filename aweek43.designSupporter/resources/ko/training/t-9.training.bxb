@@ -1,0 +1,15 @@
+train (t-91fp7vwqw5rpe3h67cwmped29) {
+  utterance ("[g:youtubeURL] (손 그리는 법)[v:youtubeName] 찾아줘")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1572865983240)
+}
+train (t-98z3wtakfx6qibd7jto3iudtu) {
+  utterance ("[g:youtubeURL] (눈 그리는 법)[v:youtubeName] 알려줘봐")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1571143730742)
+}
+train (t-9vpt3n9dli4gv3rh4ok6ojdxv) {
+  utterance ("[g:searchInfo] (베이지색)[v:name] 정보 알려줘")
+  plan (Y2BmUEwsT03NNjHWS0ktzkzPCy4tKMgvKkkt0kvOz8kv8sxLy2dQwqWkODWxKDkDrEYGl5q8xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1572866306325)
+}

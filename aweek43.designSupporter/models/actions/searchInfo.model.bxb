@@ -1,0 +1,11 @@
+action (searchInfo) {
+  description (색상 RBG, CMYK 검색)
+  collect {
+    input (name) {
+      type (name)
+      min (Required) max (One)
+    }
+  }
+  type (Search)
+  output (colorInfo)
+}

@@ -1,0 +1,10 @@
+train (t-zmf0udey0d19ktylpv7hkr45j) {
+  utterance ("[g:practiceURL] (그림)[v:practiceType] 연습 시켜줘봐")
+  plan (Y2BmkE4sT03NNjHWS0ktzkzPCy4tKMgvKkkt0istymFQxiVZUJSYXJKZnBoa5MOgQkhRSGVBKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1571503720850)
+}
+train (t-znr33jf4mcct7rulvgb734eq4) {
+  utterance ("[g:searchCode] (갈색)[v:name] 코드가 뭐야")
+  plan (Y2BmkEksT03NNjHWS0ktzkzPCy4tKMgvKkkt0kvOT0llUMIlW5yaWJSc4QxSg9OEvMTcVAYmBkYgZgCSjAwgAOUDAA==)
+  last-modified (1569766560463)
+}

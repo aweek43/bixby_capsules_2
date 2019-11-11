@@ -1,0 +1,10 @@
+train (t-1cgi960obk36l53go4jqi5nss) {
+  utterance ("[g:showVerse] (창세기 1장 1절)[v:name] 찾아줘")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1572003663914)
+}
+train (t-1nobeztk45b6f9vevhcd1rqio) {
+  utterance ("[g:showVerse] (요나서 1장 5절)[v:name] 알려줄래")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1572272013882)
+}

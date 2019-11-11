@@ -1,0 +1,15 @@
+train (t-82w0go0md4ifpic9mruy3u0g9) {
+  utterance ("[g:searchKeyword] (하나님)[v:keyword]이 들어간 구절 알려줘")
+  plan (Y2BmkE0sT03NNjHWK0nNyfFNdcpMyknVK0stKk7NySwuYVDEJl2cmliUnOGdWlmeX5TCII1NSTZUkomBEYgZgCQjAwhA+QA=)
+  last-modified (1572003682154)
+}
+train (t-8g81y3vv346wwgwbqjaybiv60) {
+  utterance ("[g:showVerse] (창세기 1장 1절)[v:name] 보고 싶어")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1571230975699)
+}
+train (t-8xvg012w8z6k24bj3czruv6fb) {
+  utterance ("[g:showVerse] (시편 104장 30절)[v:name] 들려줘")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1568683808985)
+}

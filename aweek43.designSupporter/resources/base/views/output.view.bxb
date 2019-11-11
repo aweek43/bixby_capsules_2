@@ -1,0 +1,25 @@
+result-view {
+  match: code(this)
+
+  
+  message {
+    if (this != '0') {
+      template ("확인") {
+        speech ("#{value(this)} 입니다.")
+      }
+    }
+    else {
+      template ("확인") {
+        speech ("검색 결과가 없습니다.")
+      }
+    }
+  }
+  
+  render {
+    layout-macro (details) {
+      param (detail_code) {
+        expression (this)
+      }
+    }
+  }
+}

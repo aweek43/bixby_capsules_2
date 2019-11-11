@@ -1,0 +1,11 @@
+action (practiceURL) {
+  description (연습하고자 하는 URL로 연결)
+  collect {
+    input (practiceType) {
+      type (practiceType)
+      min (Required) max (One)
+    }
+  }
+  type (Search)
+  output (url)
+}

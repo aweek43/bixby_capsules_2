@@ -1,0 +1,10 @@
+train (t-0cqneeh5rrar11p6luxkjah4x) {
+  utterance ("[g:practiceURL] (그림)[v:practiceType] 연습시켜줘봐")
+  plan (Y2BmkE4sT03NNjHWS0ktzkzPCy4tKMgvKkkt0istymFQxiVZUJSYXJKZnBoa5MOgQkhRSGVBKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1572865957624)
+}
+train (t-0v0iulubttauyaiqvxp7gkuv2) {
+  utterance ("[g:practiceURL] (건물)[v:practiceType] 연습 시켜줘")
+  plan (Y2BmkE4sT03NNjHWS0ktzkzPCy4tKMgvKkkt0istymFQxiVZUJSYXJKZnBoa5MOgQkhRSGVBKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1572865967783)
+}

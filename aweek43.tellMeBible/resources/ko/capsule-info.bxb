@@ -1,0 +1,12 @@
+capsule-info {
+  display-name (성경을 말해줘)
+  developer-name (김한주)
+  icon-asset (images/icon.png)
+  description ("성경을 말해줘는 사용자가 원하는 성경 구절을 말해줍니다.")
+  search-keywords {
+    keyword (성경 말해줘)
+    keyword (성경을 들려줘)
+    keyword (성경을 알려줘)
+  }
+  dispatch-name (성경을 말해줘)
+}

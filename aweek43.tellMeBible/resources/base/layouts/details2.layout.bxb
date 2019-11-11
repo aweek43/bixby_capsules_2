@@ -1,0 +1,28 @@
+layout-macro-def (details2) {
+
+  params {
+    param (detail_verselist) {
+      type(verselist)
+      min (Optional)
+    }
+  }
+
+  content {
+    section {
+      content {
+        paragraph {
+          value ("#{value(detail_verselist[0].name)} \n #{value(detail_verselist[0].verse)} \n.")
+          style (Title_S)
+        }
+        paragraph {
+          value ("#{value(detail_verselist[1].name)} \n #{value(detail_verselist[1].verse)} \n.")
+          style (Title_S)
+        }
+        paragraph {
+          value ("#{value(detail_verselist[2].name)} \n #{value(detail_verselist[2].verse)} \n.")
+          style (Title_S)
+        }
+      }
+    }
+  }
+}

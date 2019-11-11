@@ -1,0 +1,12 @@
+result-view {
+  match: youtube(this)
+  
+  message()
+  
+  app-launch {
+    payload-uri{
+      template("#{value(this)}")
+    }
+  } 
+
+}

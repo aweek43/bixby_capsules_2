@@ -1,0 +1,11 @@
+action (searchKeyword) {
+  description (키워드 검색)
+  collect {
+    input (keyword) {
+      type (keyword)
+      min (Required) max (One)
+    }
+  }
+  type (Search)
+  output (verselist)
+}

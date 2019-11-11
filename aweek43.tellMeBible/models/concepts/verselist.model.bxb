@@ -1,0 +1,14 @@
+structure (verselist) {
+  description (verse list)
+  
+  property (name) {
+    type(name)
+    min (Optional)
+  }
+
+  property (verse) {
+    type(verse)
+    min (Optional)
+  }
+
+}

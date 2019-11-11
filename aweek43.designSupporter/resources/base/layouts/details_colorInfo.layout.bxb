@@ -1,0 +1,28 @@
+layout-macro-def (details_colorInfo) {
+
+  params {
+    param (detail_color) {
+      type(colorInfo)
+      min (Required)
+    }
+  }
+
+  content {
+    section {
+      content {
+        if (detail_color[0].rgb != '0') {
+          paragraph {
+            value ("RGB값은 #{value(detail_color[0].rgb)} 이고, CMYK값은 #{value(detail_color[0].cmyk)} 입니다.")
+            style (Title_M)
+          }
+        }
+        else {
+          paragraph {
+            value ("검색 결과가 없습니다.")
+            style (Title_M)
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+structure (colorInfo) {
+  description (색상 rgb, cmyk)
+
+  property (rgb) {
+    type (rgb)
+    min (Required) max (One)
+  }
+  property (cmyk) {
+    type (cmyk)
+    min (Required) max (One)
+  }
+}

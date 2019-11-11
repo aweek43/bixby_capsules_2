@@ -1,0 +1,11 @@
+action (youtubeURL) {
+  description (연습하고자 하는 유튜브 영상으로 이동)
+  collect {
+    input (youtubeName) {
+      type (youtubeName)
+      min (Required) max (One)
+    }
+  }
+  type (Search)
+  output (youtube)
+}

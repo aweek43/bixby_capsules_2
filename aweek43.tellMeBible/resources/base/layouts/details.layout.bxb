@@ -1,0 +1,20 @@
+layout-macro-def (details) {
+
+  params {
+    param (detail_verse) {
+      type(verse)
+      min (Required)
+    }
+  }
+
+  content {
+    section {
+      content {
+        paragraph {
+          value ("#{value(detail_verse)}")
+          style (Title_M)
+        }
+      }
+    }
+  }
+}

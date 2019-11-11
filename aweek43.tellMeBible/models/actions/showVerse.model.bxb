@@ -1,0 +1,11 @@
+action (showVerse) {
+  description (성경 제목을 받아 알맞은 성경 구절을 반환)
+  collect {
+    input (name) {
+      type (name)
+      min (Required) max (One)
+    }
+  }
+  type (Search)
+  output (verse)
+}

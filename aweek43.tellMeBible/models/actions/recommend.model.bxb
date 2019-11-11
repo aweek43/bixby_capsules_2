@@ -1,0 +1,7 @@
+action (recommend) {
+  description (성경 구절 추천)
+  collect {
+  }
+  type (Search)
+  output (verse)
+}

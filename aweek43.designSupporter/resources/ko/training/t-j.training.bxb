@@ -1,0 +1,15 @@
+train (t-j04yfi9fjejo1yjsxgf532sqs) {
+  utterance ("[g:searchInfo] (오렌지색)[v:name] 정보 알려주라")
+  plan (Y2BmUEwsT03NNjHWS0ktzkzPCy4tKMgvKkkt0kvOz8kv8sxLy2dQwqWkODWxKDkDrEYGl5q8xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1572866449530)
+}
+train (t-jh0gv4dr2x26nhu27o6ts03jn) {
+  utterance ("[g:youtubeURL] (원근법)[v:youtubeName] 알려줘")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1570879418054)
+}
+train (t-jjm3afsfju20gx3pwhjau6xdu) {
+  utterance ("[g:searchCode] (녹색)[v:name] 코드 알려줘")
+  plan (Y2BmkEksT03NNjHWS0ktzkzPCy4tKMgvKkkt0kvOT0llUMIlW5yaWJSc4QxSg9OEvMTcVAYmBkYgZgCSjAwgAOUDAA==)
+  last-modified (1569764693424)
+}

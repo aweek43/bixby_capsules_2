@@ -1,0 +1,28 @@
+layout-macro-def (details) {
+
+  params {
+    param (detail_code) {
+      type(code)
+      min (Required)
+    }
+  }
+
+  content {
+    section {
+      content {
+        if (detail_code != '0') {
+          paragraph {
+            value ("#{value(detail_code)} 입니다.")
+            style (Title_M)
+          }
+        }
+        else {
+          paragraph {
+            value ("검색 결과가 없습니다.")
+            style (Title_M)
+          }
+        }
+      }
+    }
+  }
+}

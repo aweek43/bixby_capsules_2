@@ -1,0 +1,5 @@
+train (t-txdo8wfpc89eclza6tb64zrk6) {
+  utterance ("[g:searchInfo] (파란색)[v:name] 정보 알려줘봐")
+  plan (Y2BmUEwsT03NNjHWS0ktzkzPCy4tKMgvKkkt0kvOz8kv8sxLy2dQwqWkODWxKDkDrEYGl5q8xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1571143012611)
+}

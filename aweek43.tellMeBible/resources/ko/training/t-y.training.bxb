@@ -1,0 +1,10 @@
+train (t-ygy2iy7f43mep197ngcugce3v) {
+  utterance ("[g:showVerse] (창세기 1장 1절)[v:name] 알려줘")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1568557944451)
+}
+train (t-yjfn1uj1xe6wxbji97n60fg8a) {
+  utterance ("[g:showVerse] (역대지하 9장 7절)[v:name] 알고 싶어")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1572269649060)
+}

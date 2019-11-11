@@ -1,0 +1,25 @@
+result-view {
+  match: colorInfo(this)
+
+  
+  message {
+    if (this[0].rgb != '0') {
+      template ("확인") {
+        speech ("RGB값은 #{value(this[0].rgb)}, 이고, CMYK값은 #{value(this[0].cmyk)}, 입니다.")
+      }
+    }
+    else {
+      template ("확인") {
+        speech ("검색 결과가 없습니다.")
+      }
+    }
+  }
+  
+  render {
+    layout-macro (details_colorInfo) {
+      param (detail_color) {
+        expression (this)
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+result-view {
+  match: verselist(this)
+
+  
+  message {
+      template ("성경 말씀 목록입니다") {
+        speech ("검색 결과입니다.")
+      }
+  }
+  
+  render {
+    layout-macro (details2) {
+      param (detail_verselist) {
+        expression (this)
+      }
+    }
+  }
+}

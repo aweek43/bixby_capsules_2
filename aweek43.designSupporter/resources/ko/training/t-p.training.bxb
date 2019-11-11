@@ -1,0 +1,10 @@
+train (t-pjm0fptsff2pd4781bsmbrqi0) {
+  utterance ("[g:youtubeURL] (원근법)[v:youtubeName] 알려주겠니")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1571143247298)
+}
+train (t-pnyf0ltwopvvh66pt2994v04w) {
+  utterance ("[g:youtubeURL] (원근법)[v:youtubeName] 찾아줘")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1571503873945)
+}

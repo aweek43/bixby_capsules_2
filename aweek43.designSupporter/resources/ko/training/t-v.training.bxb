@@ -1,0 +1,5 @@
+train (t-vcf9ndl2j3kz1fbfoelcjgz7o) {
+  utterance ("[g:practiceURL] (건물)[v:practiceType] 연습하고 싶어")
+  plan (Y2BmkE4sT03NNjHWS0ktzkzPCy4tKMgvKkkt0istymFQxiVZUJSYXJKZnBoa5MOgQkhRSGVBKgMTAyMQMwBJRgYQgPIB)
+  last-modified (1571144200382)
+}

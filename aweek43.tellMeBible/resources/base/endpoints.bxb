@@ -1,0 +1,19 @@
+endpoints {
+  action-endpoints {
+
+    action-endpoint (showVerse) {
+      accepted-inputs (name)
+      local-endpoint (ShowVerse.js)
+    }
+
+    action-endpoint (searchKeyword) {
+      accepted-inputs (keyword)
+      local-endpoint (SearchKeyword.js)
+    }
+
+    action-endpoint (recommend) {
+      local-endpoint (Recommend.js)
+    }
+
+  }
+}

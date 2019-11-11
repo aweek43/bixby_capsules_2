@@ -1,0 +1,31 @@
+endpoints {
+  action-endpoints {
+
+    action-endpoint (searchCode) {
+      accepted-inputs (name)
+      local-endpoint (SearchCode.js)
+    }
+
+    action-endpoint (practiceURL) {
+      accepted-inputs (practiceType)
+      local-endpoint (PracticeURL.js)
+    }
+
+    action-endpoint (searchInfo) {
+      accepted-inputs (name)
+      local-endpoint (SearchInfo.js)
+    }
+
+   action-endpoint (youtubeURL) {
+      accepted-inputs (youtubeName)
+      local-endpoint (YoutubeURL.js)
+    }
+
+    action-endpoint (youtubeURL_add) {
+      accepted-inputs (youtubeName)
+      local-endpoint (YoutubeURL_add.js)
+    }
+
+
+  }
+}

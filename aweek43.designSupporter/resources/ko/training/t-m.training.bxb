@@ -1,0 +1,10 @@
+train (t-mh300c0631gkjxad4e9q1tpkg) {
+  utterance ("[g:youtubeURL] (원근법)[v:youtubeName]이 뭐야")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1571143837786)
+}
+train (t-mmizbcqliiizkzir425wnxavf) {
+  utterance ("[g:youtubeURL] (빛과 명함)[v:youtubeName] 알려줘")
+  plan (Y2BmkE8sT03NNjHWS0ktzkzPCy4tKMgvKkkt0qvMLy0pTUplUCKgIDTIh0GZgBq/xNxUBiYGRiBmAJKMDCAA5QMA)
+  last-modified (1571504127733)
+}

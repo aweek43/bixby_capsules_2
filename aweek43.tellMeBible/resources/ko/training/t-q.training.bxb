@@ -1,0 +1,5 @@
+train (t-q72v1l8633ohxkid2l292bp92) {
+  utterance ([g:recommend] 성경구절 추천해줘)
+  plan (Y2BikEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZSanJ+bm5qXwsAIhAxQDCQB)
+  last-modified (1571144900059)
+}

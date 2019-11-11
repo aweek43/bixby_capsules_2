@@ -1,0 +1,11 @@
+action (searchCode) {
+  description (색상 코드 검색)
+  collect {
+    input (name) {
+      type (name)
+      min (Required) max (One)
+    }
+  }
+  type (Search)
+  output (code)
+}

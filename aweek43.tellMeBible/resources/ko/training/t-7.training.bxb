@@ -1,0 +1,10 @@
+train (t-79btidk3lxzct3gji1dfxb45e) {
+  utterance ("[g:showVerse] (잠언 12장 3절)[v:name] 확인할래")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1572003648416)
+}
+train (t-7se6bhcezu3bd8i7x6yatxts9) {
+  utterance ("[g:showVerse] (예레미야서 48장 23절)[v:name] 뭐야")
+  plan (Y2BmkEwsT03NNjHWK0nNyfFNdcpMyknVK0stKk5lkMUmVZyRXx4GlpbAJp2XmJvKwMTACMQMQJKRAQSgfAA=)
+  last-modified (1572269679347)
+}

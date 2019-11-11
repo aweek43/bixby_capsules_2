@@ -1,0 +1,18 @@
+result-view {
+  match: verse(this)
+
+  
+  message {
+      template ("성경 말씀입니다") {
+        speech ("#{value(this)}")
+      }
+  }
+  
+  render {
+    layout-macro (details) {
+      param (detail_verse) {
+        expression (this)
+      }
+    }
+  }
+}
